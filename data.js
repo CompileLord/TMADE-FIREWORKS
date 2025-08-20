@@ -3,22 +3,22 @@ const projectsData = {
         {
             name: "О нас",
             path: "AYUB/about/index.html",
-            image: "images/ayub_about.jpg"
+            image: "image/Banner.jpg"
         },
         {
             name: "Главная страница",
             path: "AYUB/homepage/index1.html",
-            image: "images/ayub_homepage.jpg"
+            image: "image/Banner (1).png"
         },
         {
             name: "Магазин",
             path: "AYUB/shop/index1.html",
-            image: "images/ayub_shop.jpg"
+            image: "image/Banner(2).png"
         },
         {
             name: "Отдельный товар",
             path: "AYUB/shop single/index1.html",
-            image: "images/ayub_shop_single.jpg"
+            image: "image/Banner.png"
         }
     ],
     "UMED": [
