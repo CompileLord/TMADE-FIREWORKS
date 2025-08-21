@@ -25,27 +25,27 @@ const projectsData = {
         {
             name: "404",
             path: "UMED/404/index1.html",
-            image: "images/umed_404.jpg"
+            image: "image/404.PNG"
         },
         {
             name: "Отдельный блог",
             path: "UMED/blog single/index1.html",
-            image: "images/umed_blog_single.jpg"
+            image: "image/blogSingle.PNG"
         },
         {
             name: "Контакты",
             path: "UMED/contact/index1.html",
-            image: "images/umed_contact.jpg"
+            image: "image/contact.PNG"
         },
         {
             name: "Лицензии",
             path: "UMED/Licences/index1.html",
-            image: "images/umed_licences.jpg"
+            image: "image/licenses.PNG"
         },
         {
             name: "Защита паролем",
             path: "UMED/Password Protect/index.html",
-            image: "images/umed_password_protect.jpg"
+            image: "image/password.PNG"
         }
     ],
     "ISMOIL": [
